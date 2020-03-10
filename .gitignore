@@ -1,0 +1,4 @@
+.cache-*
+secrets.py
+genres.txt
+*.cfg
